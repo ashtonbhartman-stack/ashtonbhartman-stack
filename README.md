@@ -44,3 +44,5 @@ programmable clock prescaler, multiplexed 7-segment display. Verified on FPGA ha
 ---
 
  hartm175@purdue.edu | [LinkedIn](https://linkedin.com/in/ashton-hartman/)
+
+<!-- -->
